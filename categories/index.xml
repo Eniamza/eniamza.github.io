@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Enilog | Eni&#39; Blog</title>
+    <title>Categories on Enilog</title>
     <link>https://eniamza.github.io/categories/</link>
-    <description>Recent content in Categories on Enilog | Eni&#39; Blog</description>
+    <description>Recent content in Categories on Enilog</description>
     <image>
       <url>https://raw.githubusercontent.com/Eniamza/enilog-source/master/static/opengraph.png</url>
       <link>https://raw.githubusercontent.com/Eniamza/enilog-source/master/static/opengraph.png</link>
