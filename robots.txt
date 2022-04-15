@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://enilog-fgwso.ondigitalocean.app/sitemap.xml
