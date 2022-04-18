@@ -70,7 +70,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "It's Eniamza"
+    Title: "It's Eniamza."
     Content: "Have you been thinking about how to use your toaster and turn it into a spaceship?\n\n\nWell probably not that, but my blog is dedicated to fullfill all your curiosities and beyond!"
 
   socialIcons:
