@@ -55,17 +55,17 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    enabled: true # needs to be explicitly set
+    title: Hey there 🐱~ It's Eniamza
+    subtitle: "Welcome to my blog AKA Enilog!\n\n\nI'm a Freelancer, a Crypto Enthusiast, Geek with Glasses and that weird joke guy!\n\n\nCurrently working as the Community Manager @ [🔗Dooggies🐶](https://dooggies.io)"
+    imageUrl: "/Eniamza-Smile.png"
+    imageWidth: 150
+    imageHeight: 150
+    imageTitle: Smiling Image of Eniamza
     buttons:
-      - name: Posts
+      - name: Explore my Blog
         url: posts
-      - name: Tags
+      - name: Browse by Tags
         url: tags
 
   # home-info mode
