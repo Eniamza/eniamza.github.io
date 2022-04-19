@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Enilog</title>
-    <link>https://enilog-fgwso.ondigitalocean.app/</link>
+    <link>https://eniamza.com/</link>
     <description>Recent content on Enilog</description>
     <image>
-      <url>https://raw.githubusercontent.com/Eniamza/enilog-source/master/static/opengraph.png</url>
-      <link>https://raw.githubusercontent.com/Eniamza/enilog-source/master/static/opengraph.png</link>
+      <url>https://raw.githubusercontent.com/Eniamza/eniamza.github.io/master/static/opengraph.png</url>
+      <link>https://raw.githubusercontent.com/Eniamza/eniamza.github.io/master/static/opengraph.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://enilog-fgwso.ondigitalocean.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://eniamza.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
-      <link>https://enilog-fgwso.ondigitalocean.app/posts/testpost/</link>
+      <link>https://eniamza.com/posts/testpost/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://enilog-fgwso.ondigitalocean.app/posts/testpost/</guid>
+      <guid>https://eniamza.com/posts/testpost/</guid>
       <description>Desc Text.</description>
     </item>
     
