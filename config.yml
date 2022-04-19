@@ -1,4 +1,4 @@
-baseURL: "https://enilog-fgwso.ondigitalocean.app/"
+baseURL: "https://eniamza.com"
 title: Enilog
 paginate: 5
 theme: PaperMod
@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Hacks, Tips, Eniamza]
   author: Eni
   # author: ["Me", "You"] # multiple authors
-  images: ["https://raw.githubusercontent.com/Eniamza/enilog-source/master/static/opengraph.png"]
+  images: ["https://raw.githubusercontent.com/Eniamza/eniamza.github.io/master/static/opengraph.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: false
@@ -42,22 +42,22 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     disableFingerprinting: true
-    favicon: "https://github.com/Eniamza/enilog-source/raw/master/static/Eniamza-500x500.png"
-    favicon16x16: "https://github.com/Eniamza/enilog-source/raw/master/static/Eniamza-16x16.png"
-    favicon32x32: "https://github.com/Eniamza/enilog-source/raw/master/static/Eniamza-32x32.png"
+    favicon: "https://github.com/Eniamza/eniamza.github.io/raw/master/static/Eniamza-500x500.png"
+    favicon16x16: "https://github.com/Eniamza/eniamza.github.io/raw/master/static/Eniamza-16x16.png"
+    favicon32x32: "https://github.com/Eniamza/eniamza.github.io/raw/master/static/Eniamza-32x32.png"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Enilog"
-    icon: "https://github.com/Eniamza/enilog-source/raw/master/static/Eniamza-500x500.png"
+    icon: "https://github.com/Eniamza/eniamza.github.io/raw/master/static/Eniamza-500x500.png"
     iconHeight: 30
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hey there 🐱~ It's Eniamza
-    subtitle: "Welcome to my blog AKA Enilog!\n\n\nI'm a Freelancer, a Crypto Enthusiast, Geek with Glasses and that weird joke guy!\n\n\nCurrently working as the Community Manager @ [🔗Dooggies🐶](https://dooggies.io)"
+    subtitle: "Welcome to my blog AKA Enilog!\n\n\nI'm a Freelancer, a Crypto Enthusiast, Geek with Glasses and that weird joke guy!\n\n\nCurrently working as the Community Manager @ [🔗Dooggies NFT🐶](https://dooggies.io)"
     imageUrl: "https://github.com/Eniamza/eniamza.github.io/raw/master/static/Eniamza-Smile.png"
     imageWidth: 150
     imageHeight: 150
