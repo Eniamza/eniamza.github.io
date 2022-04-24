@@ -14,6 +14,12 @@ minify:
   disableXML: true
   minifyOutput: true
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Enilog | Eni' Blog
@@ -22,10 +28,8 @@ params:
   author: Eni
   # author: ["Me", "You"] # multiple authors
   images: ["https://raw.githubusercontent.com/Eniamza/eniamza.github.io/master/static/opengraph.png"]
-  DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: false
-
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -117,6 +121,11 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
+    - identifier: search
+      name: Search
+      url: search/
+      weight: 20
+    
 #    - identifier: Enilog
 #      name: Enilog
 #      url: https://eniamza.github.io
