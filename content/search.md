@@ -1,6 +1,6 @@
 ---
 title: "Search" 
 layout: "search" 
-description: "Description for Search"
+description: "Find your favourite writeups and Tuts!"
 summary: "search"
 ---
