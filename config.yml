@@ -19,6 +19,10 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
+        
+taxonomies:
+  category: categories
+  tag: tags
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
