@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://eniamza.com/categories/better/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eniamza.com/categories/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eniamza.com/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,6 +15,9 @@
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eniamza.com/posts/testpost/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eniamza.com/categories/great/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eniamza.com/tags/lol/</loc>
@@ -22,8 +31,6 @@
   </url><url>
     <loc>https://eniamza.com/tags/test/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eniamza.com/categories/</loc>
   </url><url>
     <loc>https://eniamza.com/search/</loc>
   </url>
