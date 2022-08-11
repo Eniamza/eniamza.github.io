@@ -179,7 +179,7 @@ Now that we wrapped up our basic interactive option, let's briefly explore what 
 
 This option generates a help message with a list of arguments we can use with this script
 
-- **interactive Steps > -i / -interactive*
+- **interactive Steps > -i / -interactive**
 
 The one we just used. Scroll up to jog your memories!
 
