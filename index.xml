@@ -19,33 +19,6 @@
       <description>CUPP is an unique password profiling technique where you can generate a dictionary word list curated for your target!</description>
     </item>
     
-    <item>
-      <title>PROPERLY Create a Hugo blog with Github Pages</title>
-      <link>https://eniamza.com/posts/create-a-hugo-site-properly/</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://eniamza.com/posts/create-a-hugo-site-properly/</guid>
-      <description>Today, we&amp;#39;re going to set up a hugo blog without all those confusing tuts. So first, we need...</description>
-    </item>
-    
-    <item>
-      <title>FIRaaaaaaaaaaaa</title>
-      <link>https://eniamza.com/posts/test2/</link>
-      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://eniamza.com/posts/test2/</guid>
-      <description>lol</description>
-    </item>
-    
-    <item>
-      <title>FIRST EVER POST ON THIS BLOG</title>
-      <link>https://eniamza.com/posts/testpost/</link>
-      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://eniamza.com/posts/testpost/</guid>
-      <description>Test</description>
-    </item>
-    
     
   </channel>
 </rss>
