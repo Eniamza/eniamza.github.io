@@ -3,7 +3,7 @@ title: "How Dictionary based Bruteforce Attacks can be more optimized with CUPP"
 date: 2022-07-14
 # weight: 1
 # aliases: ["/first"]
-tags: ["dictionary","10 million","cupp","python","custom password list","hacking","password crack"]
+tags: ["dictionary","10 million","cupp","python","custom password list","hacking","password crack", "effective wordlist"]
 author: "Eniamza"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -21,9 +21,9 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "https://i.imgur.com/oXSG2Ee.png" # image path/url
-    alt: "eniamza looking at a mate who's sitting on a pipe referred as tunnel" # alt text
-    caption: "top tunneling services and alternatives" # display caption under cover
+    image: "https://i.imgur.com/qrNNNRU.png" # image path/url
+    alt: "Eniamza holding a magnifying glass thinking with processing icons over his head and looking at a man portraid as a target." # alt text
+    caption: "Common user Password Profiler to generate effective short and custom wordlist or Dictionary for brute-force Attacks" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
