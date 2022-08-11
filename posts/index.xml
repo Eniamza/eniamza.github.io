@@ -9,7 +9,25 @@
       <link>https://raw.githubusercontent.com/Eniamza/eniamza.github.io/master/static/opengraph.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eniamza.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eniamza.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Dictionary Attacks can be more optimized with CUPP</title>
+      <link>https://eniamza.com/posts/cupp-common-user-password-profiling/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/posts/cupp-common-user-password-profiling/</guid>
+      <description>CUPP is an unique password profiling technique where you can generate a dictionary word list curated for your target!</description>
+    </item>
+    
+    <item>
+      <title>PROPERLY Create a Hugo blog with Github Pages</title>
+      <link>https://eniamza.com/posts/create-a-hugo-site-properly/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/posts/create-a-hugo-site-properly/</guid>
+      <description>Today, we&amp;#39;re going to set up a hugo blog without all those confusing tuts. So first, we need...</description>
+    </item>
+    
     <item>
       <title>FIRaaaaaaaaaaaa</title>
       <link>https://eniamza.com/posts/test2/</link>
