@@ -1,6 +1,6 @@
 ---
 title: "How Dictionary based Bruteforce Attacks can be more optimized with CUPP"
-date: 2022-07-14
+date: 2022-08-14
 # weight: 1
 # aliases: ["/first"]
 tags: ["dictionary","10 million","cupp","python","custom password list","hacking","password crack", "effective wordlist"]
