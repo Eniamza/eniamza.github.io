@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dual Boot on Enilog</title>
+    <link>https://eniamza.com/tags/dual-boot/</link>
+    <description>Recent content in Dual Boot on Enilog</description>
+    <image>
+      <url>https://raw.githubusercontent.com/Eniamza/eniamza.github.io/master/static/opengraph.png</url>
+      <link>https://raw.githubusercontent.com/Eniamza/eniamza.github.io/master/static/opengraph.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eniamza.com/tags/dual-boot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create a Portable Linux with USB Flash Drive [Windows]</title>
+      <link>https://eniamza.com/posts/full-linux-setup-on-usb-drive/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/posts/full-linux-setup-on-usb-drive/</guid>
+      <description>Don&amp;#39;t want to go wild and dual boot? Or want your workspace to fit in your pocket? Live Persistence Linux is just the right choice for you!</description>
+    </item>
+    
+  </channel>
+</rss>

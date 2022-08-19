@@ -9,11 +9,92 @@
       <link>https://raw.githubusercontent.com/Eniamza/eniamza.github.io/master/static/opengraph.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eniamza.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eniamza.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootable</title>
+      <link>https://eniamza.com/tags/bootable/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/bootable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Boot</title>
+      <link>https://eniamza.com/tags/dual-boot/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/dual-boot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How To</title>
+      <link>https://eniamza.com/tags/how-to/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/how-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux Mint</title>
+      <link>https://eniamza.com/tags/linux-mint/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/linux-mint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>live</title>
+      <link>https://eniamza.com/tags/live/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Live Linux</title>
+      <link>https://eniamza.com/tags/live-linux/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/live-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>persistent</title>
+      <link>https://eniamza.com/tags/persistent/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/persistent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rufus</title>
+      <link>https://eniamza.com/tags/rufus/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/rufus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://eniamza.com/tags/windows/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/windows/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>10 million</title>
       <link>https://eniamza.com/tags/10-million/</link>
-      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://eniamza.com/tags/10-million/</guid>
       <description></description>
@@ -22,7 +103,7 @@
     <item>
       <title>cupp</title>
       <link>https://eniamza.com/tags/cupp/</link>
-      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://eniamza.com/tags/cupp/</guid>
       <description></description>
@@ -31,7 +112,7 @@
     <item>
       <title>custom password list</title>
       <link>https://eniamza.com/tags/custom-password-list/</link>
-      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://eniamza.com/tags/custom-password-list/</guid>
       <description></description>
@@ -40,7 +121,7 @@
     <item>
       <title>dictionary</title>
       <link>https://eniamza.com/tags/dictionary/</link>
-      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://eniamza.com/tags/dictionary/</guid>
       <description></description>
@@ -49,7 +130,7 @@
     <item>
       <title>effective wordlist</title>
       <link>https://eniamza.com/tags/effective-wordlist/</link>
-      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://eniamza.com/tags/effective-wordlist/</guid>
       <description></description>
@@ -58,7 +139,7 @@
     <item>
       <title>hacking</title>
       <link>https://eniamza.com/tags/hacking/</link>
-      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://eniamza.com/tags/hacking/</guid>
       <description></description>
@@ -67,7 +148,7 @@
     <item>
       <title>password crack</title>
       <link>https://eniamza.com/tags/password-crack/</link>
-      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://eniamza.com/tags/password-crack/</guid>
       <description></description>
@@ -76,7 +157,7 @@
     <item>
       <title>python</title>
       <link>https://eniamza.com/tags/python/</link>
-      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://eniamza.com/tags/python/</guid>
       <description></description>
