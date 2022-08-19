@@ -26,7 +26,7 @@ taxonomies:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Enilog | Eni' Blog
+  title: Enilog | Eni's Blog
   description: "Trips, Tricks, Workarounds, Analysis, Philosophies... Aye!"
   keywords: [Blog, Hacks, Tips, Eniamza]
   author: Eni
