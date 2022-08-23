@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://eniamza.com/tags/add/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eniamza.com/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eniamza.com/tags/install/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eniamza.com/tags/kali-linux/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eniamza.com/tags/metasploit/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eniamza.com/tags/nethunter/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eniamza.com/tags/nikto/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eniamza.com/tags/nmap/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eniamza.com/posts/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eniamza.com/posts/properly-add-kali-repositories-to-linux-mint/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eniamza.com/tags/repository/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eniamza.com/tags/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eniamza.com/tags/bootable/</loc>
     <lastmod>2022-08-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,9 +45,6 @@
     <lastmod>2022-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eniamza.com/tags/dual-boot/</loc>
-    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eniamza.com/</loc>
     <lastmod>2022-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eniamza.com/tags/how-to/</loc>
@@ -29,13 +62,7 @@
     <loc>https://eniamza.com/tags/persistent/</loc>
     <lastmod>2022-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eniamza.com/posts/</loc>
-    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://eniamza.com/tags/rufus/</loc>
-    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eniamza.com/tags/</loc>
     <lastmod>2022-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eniamza.com/tags/windows/</loc>

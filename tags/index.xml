@@ -9,7 +9,79 @@
       <link>https://raw.githubusercontent.com/Eniamza/eniamza.github.io/master/static/opengraph.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eniamza.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eniamza.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>add</title>
+      <link>https://eniamza.com/tags/add/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/add/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>install</title>
+      <link>https://eniamza.com/tags/install/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kali linux</title>
+      <link>https://eniamza.com/tags/kali-linux/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/kali-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metasploit</title>
+      <link>https://eniamza.com/tags/metasploit/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/metasploit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nethunter</title>
+      <link>https://eniamza.com/tags/nethunter/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/nethunter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nikto</title>
+      <link>https://eniamza.com/tags/nikto/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/nikto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nmap</title>
+      <link>https://eniamza.com/tags/nmap/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/nmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repository</title>
+      <link>https://eniamza.com/tags/repository/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/tags/repository/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Bootable</title>
       <link>https://eniamza.com/tags/bootable/</link>

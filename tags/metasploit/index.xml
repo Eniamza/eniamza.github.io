@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>metasploit on Enilog</title>
+    <link>https://eniamza.com/tags/metasploit/</link>
+    <description>Recent content in metasploit on Enilog</description>
+    <image>
+      <url>https://raw.githubusercontent.com/Eniamza/eniamza.github.io/master/static/opengraph.png</url>
+      <link>https://raw.githubusercontent.com/Eniamza/eniamza.github.io/master/static/opengraph.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eniamza.com/tags/metasploit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Properly install Kali Apps in Linux Mint, Ubuntu and Debian Based Distributions!</title>
+      <link>https://eniamza.com/posts/properly-add-kali-repositories-to-linux-mint/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/posts/properly-add-kali-repositories-to-linux-mint/</guid>
+      <description>A guide to properly add Kali Linux Repositories to install Kali Apps without facing any breaking changes</description>
+    </item>
+    
+  </channel>
+</rss>
