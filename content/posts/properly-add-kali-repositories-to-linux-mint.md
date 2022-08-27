@@ -4,6 +4,7 @@ date: 2022-08-21
 # weight: 1
 # aliases: ["/first"]
 tags: ["Kali Linux","Repository","add","install","Metasploit","nikto","nmap","nethunter"]
+categories: ["Guide","Cyber Security"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -12,7 +13,6 @@ draft: false
 hidemeta: false
 comments: false
 description: "A guide to properly add Kali Linux Repositories to install Kali Apps without facing any breaking changes"
-canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -22,9 +22,9 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "https://i.imgur.com/oukdiPq.png" # image path/url
+    alt: "Eniamza cheering with Kali Linux and Linux distributions" # alt text
+    caption: "Eniamza cheering with Kali Linux and Linux distributions" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:

@@ -4,6 +4,7 @@ date: 2022-08-19
 # weight: 1
 # aliases: ["/first"]
 tags: ["persistent","live","Bootable","Windows","Rufus","Live Linux","Linux Mint","Dual Boot","How To"]
+categories: ["Guide"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -12,7 +13,6 @@ draft: false
 hidemeta: false
 comments: false
 description: "Don't want to go wild and dual boot? Or want your workspace to fit in your pocket? Live Persistence Linux is just the right choice for you!"
-canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
