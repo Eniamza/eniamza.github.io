@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/eniamza
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://eniamza.com
+  * I am eniamza (https://keybase.io/eniamza) on keybase.
+  * I have a public key ASAsH4Rsu_SSnarMHojEJVxZ-2FEQiID9p9VGDt4C1Ew8wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202c1f846cbbf4929daacc1e88c4255c59fb6144422203f69f55183b780b5130f30a",
+      "host": "keybase.io",
+      "kid": "01202c1f846cbbf4929daacc1e88c4255c59fb6144422203f69f55183b780b5130f30a",
+      "uid": "67a23a2be0fc1955b1ec7aca4bb75919",
+      "username": "eniamza"
+    },
+    "merkle_root": {
+      "ctime": 1662097412,
+      "hash": "5763f10bce9072bea1301744bbac39e46acd255986304e62334551266001f9ed5a6758664fcbb08dd002a826b8dcc8f0aa1061e78be3d67f4bbcb8cbf891c128",
+      "hash_meta": "52a0fe33853c71b0d55e3c73a697ad954e01be45e3b8792e6b4e403ba6487cc3",
+      "seqno": 23127589
+    },
+    "service": {
+      "entropy": "P3BfGqk6bDimNagwBRTcBitc",
+      "hostname": "eniamza.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1662097445,
+  "expire_in": 504576000,
+  "prev": "0ef725f55cb5761cc7f66aa55b00302a66d3b755fc06a17f3ad3ee7908be4567",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLB+EbLv0kp2qzB6IxCVcWfthREIiA/afVRg7eAtRMPMKp3BheWxvYWTESpcCCMQgDvcl9Vy1dhzH9mqlWwAwKmbTt1X8BqF/OtPueQi+RWfEIMoazQjcH4jxFcyUCOVceoqNhyE82w2NZUHAurCfcFJBAgHCo3NpZ8RAP/ROVQ3B5nO2YN2VihvZvs4YtOoGSpvoACCYj3tcLymIxOMPwg3eRGuXM1M+54aXrbiCn85usahKllFqXOCaBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC8se92QQjOBne12/fkB5Pm61DP8lqA21tXUIk9bJKa/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eniamza
+
+==================================================================
