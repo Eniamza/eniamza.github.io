@@ -65,7 +65,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hey there 🐱~ It's Eniamza
-    subtitle: "Welcome to my blog AKA Enilog!\n\n\nI'm a Freelancer, a Crypto Enthusiast, Geek with Glasses and that weird joke guy!\n\n\nCurrently working as the Community Manager @ [🔗Dooggies NFT🐶](https://dooggies.io)"
+    subtitle: "Welcome to my blog AKA Enilog!\n\n\nI'm a Freelancer, a Crypto Enthusiast, Geek with Glasses and that weird joke guy!\n\n\nCurrently working as the Chief Technical Officer @ [🔗Dooggies NFT🐶](https://dooggies.io)"
     imageUrl: "https://github.com/Eniamza/eniamza.github.io/raw/master/static/Eniamza-Smile.png"
     imageWidth: 150
     imageHeight: 150
@@ -73,6 +73,8 @@ params:
     buttons:
       - name: Explore my Blog
         url: posts
+      - name: Browse by Categories
+        url: categories
       - name: Browse by Tags
         url: tags
 
