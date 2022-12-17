@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>relay on Enilog</title>
+    <link>https://eniamza.com/tags/relay/</link>
+    <description>Recent content in relay on Enilog</description>
+    <image>
+      <url>https://raw.githubusercontent.com/Eniamza/eniamza.github.io/master/static/opengraph.png</url>
+      <link>https://raw.githubusercontent.com/Eniamza/eniamza.github.io/master/static/opengraph.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eniamza.com/tags/relay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[REVIEW] Audio Relay - Never buy a bluetooth speaker again!</title>
+      <link>https://eniamza.com/posts/audio-relay/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eniamza.com/posts/audio-relay/</guid>
+      <description>Want a quick solution for an external speaker? Got an Android Phone Lying Around? Use the Audio Relay app to turn that phone into a boosted speaker!</description>
+    </item>
+    
+  </channel>
+</rss>
