@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://eniamza.com/posts/scrambled-exif/</loc>
+    <lastmod>2022-12-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eniamza.com/tags/android/</loc>
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,9 +30,6 @@
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eniamza.com/categories/review/</loc>
-    <lastmod>2022-12-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eniamza.com/posts/scrambled-exif/</loc>
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eniamza.com/tags/</loc>
