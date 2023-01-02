@@ -1,5 +1,5 @@
 ---
-title: "Scrambled Exif: Make your metadata go Poof!"
+title: "[REVIEW] Scrambled Exif: Make your metadata go Poof!"
 date: 2022-12-28
 # weight: 1
 # aliases: ["/first"]
