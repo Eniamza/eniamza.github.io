@@ -65,7 +65,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Hey there 🐱~ It's Eniamza
-    subtitle: "Welcome to my blog AKA Enilog!\n\n\nI'm a Backend Developer, a Crypto Enthusiast, Geek with Glasses and that weird joke guy!\n\n\nCurrently working as the Technical Operations Supervisor @ **PlusVendor AS**\n\nStudying Computer Science and Engineering @ **[BRAC University](https://www.bracu.ac.bd/)**"
+    subtitle: "Welcome to my blog AKA Enilog!\n\n\nI'm a Backend Developer, a Crypto Enthusiast, Geek with Glasses and that weird joke guy!\n\n\nCurrently working as the Technical Operations Supervisor\n\nStudying Computer Science and Engineering @ **[BRAC University](https://www.bracu.ac.bd/)**"
     imageUrl: "https://github.com/Eniamza/eniamza.github.io/raw/master/static/Eniamza-Smile.png"
     imageWidth: 150
     imageHeight: 150
